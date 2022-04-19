@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630539723 source:d:\users\nabajyoti\c files code blocks\fgets for string input\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

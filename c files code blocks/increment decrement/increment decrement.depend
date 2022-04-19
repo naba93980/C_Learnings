@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596144571 source:d:\users\nabajyoti\increment decrement\main.c
+	<stdio.h>
+	<stdlib.h>
+

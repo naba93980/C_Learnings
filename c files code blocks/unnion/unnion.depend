@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595615174 source:d:\users\nabajyoti\unnion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

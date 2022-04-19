@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603876795 source:d:\users\nabajyoti\binary to deimal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

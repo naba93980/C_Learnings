@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1595609654 source:d:\users\nabajyoti\uniob\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+
+1595610236 source:d:\users\nabajyoti\uniob\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+

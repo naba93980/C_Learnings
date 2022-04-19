@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599495745 source:d:\users\nabajyoti\static uses\main.c
+	<stdio.h>
+	<stdlib.h>
+

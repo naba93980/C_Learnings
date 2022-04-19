@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593505188 source:d:\users\nabajyoti\lexo\main.c
+	<stdio.h>
+	<string.h>
+

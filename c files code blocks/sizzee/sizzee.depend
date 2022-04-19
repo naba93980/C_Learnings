@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597085292 source:d:\users\nabajyoti\sizzee\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

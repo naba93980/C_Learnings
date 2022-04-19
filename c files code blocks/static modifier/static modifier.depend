@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599326378 source:d:\users\nabajyoti\static modifier\untitled1.c
+
+1599335262 source:d:\users\nabajyoti\static modifier\main.c
+	<stdio.h>
+	<stdlib.h>
+

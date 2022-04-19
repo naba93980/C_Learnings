@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596999949 source:d:\users\nabajyoti\array of stribngs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1623400215 source:d:\users\nabajyoti\c files code blocks\freadwrite\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1623401488 source:d:\users\nabajyoti\c files code blocks\freadwrite\read.c
+	<stdio.h>
+	<stdlib.h>
+
+1623401641 source:d:\users\nabajyoti\c files code blocks\freadwrite\write.c
+	<stdio.h>
+	<stdlib.h>
+

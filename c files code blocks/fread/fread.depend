@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623101020 source:d:\users\nabajyoti\c files code blocks\fread\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<stdint.h>
+

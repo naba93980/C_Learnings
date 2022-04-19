@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626697012 source:d:\users\nabajyoti\c files code blocks\memcpy\memmove\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589647577 source:d:\users\nabajyoti\queue\main.c
+	"queue.h"
+	<stdlib.h>
+	<stdio.h>
+
+1589648703 d:\users\nabajyoti\queue\queue.h
+

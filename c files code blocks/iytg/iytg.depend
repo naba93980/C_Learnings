@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596220894 source:d:\users\nabajyoti\iytg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

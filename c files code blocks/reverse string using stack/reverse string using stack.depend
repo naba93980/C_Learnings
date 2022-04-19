@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1617031200 source:d:\users\nabajyoti\reverse string using stack\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+

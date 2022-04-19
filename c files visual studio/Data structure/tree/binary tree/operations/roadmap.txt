@@ -1,0 +1,38 @@
+create - 3/5
+       Depth fist -
+      # - create separate node then join by linking pointers - DONE
+       - recursively create all left nodes until u stop then create right nodes (like dfs). - DONE
+
+       Breadth first  -
+       - create tree in level order (bfs) using iteration. - DONE
+       - create tree in level order (bfs) using recursion using level and height.
+      # - construct a binary in level order using recursion. (recursively reach child node and then create new nodes at new level) - https://www.geeksforgeeks.org/construct-a-binary-in-level-order-using-recursion/
+           
+
+insert - 2/4
+       - level order insert using level and height in bfs(recursive) - 
+       - level order insert using bfs(queue/iterator) - DONE
+       - recursively reach bottom left most node and insert - DONE
+     # - recursively reach bottom most node and insert - like 5 of create
+
+
+search / traverse - 4/6
+     * - level order search/traverse using bfs(queue/iterator) - DONE
+     * - level order search/traverse using bfs(recursion) 
+       - recursive(dfs) search/traverse - DONE
+                                         - inorder
+                                         - postorder
+                                         - preorder
+
+delete - 3/4
+     # - (only one node) delete the bottommost-rightmost node and copy its data to the node whose data is to be deleted (using iterator/queue) - DONE
+       - (full tree) delete the entire binary tree using recursion/dfs (post order traversal) - DONE
+       - (full tree) delete the entire binary tree in bfs i.e level order (queue/iterator) - DONE - https://www.geeksforgeeks.org/non-recursive-program-to-delete-an-entire-binary-tree/
+       - (full tree) delete the entire binary tree in bfs i.e level order using recursion using level and height.
+
+3 main concepts 
+- Breadth first using iteration(queue).
+- Breadth first using recursion(level and height).  //LEFT TO STUDY.
+- Depth first using recursion.
+
+

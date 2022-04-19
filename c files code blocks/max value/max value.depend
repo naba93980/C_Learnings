@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623089663 source:d:\users\nabajyoti\c files code blocks\max value\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

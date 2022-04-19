@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589645043 source:d:\users\nabajyoti\wolf\main.c
+	<stdio.h>
+	<limits.h>
+	"queue.h"
+
+1589645308 d:\users\nabajyoti\wolf\queue.h
+

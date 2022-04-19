@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626806502 source:d:\users\nabajyoti\c files code blocks\reversing a array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
